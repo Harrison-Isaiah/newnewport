@@ -1,7 +1,7 @@
 import { AnimatedTestimonialsDemo } from "@/components/AnimatedTestimonialsDemo";
 import { ThreeDCardDemo } from "@/components/ThreeDCardDemo";
 import { FloatingNav } from "@/components/ui/FloatingNavbar";
-import Image from "next/image";
+
 
 import { navItems } from "@/data";
 
